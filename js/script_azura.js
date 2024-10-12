@@ -10,7 +10,7 @@ const API_URL = 'https://fm.restream593.online/api/nowplaying/invasiva_radio';
 const API_KEY = "18fe07917957c289983464588aabddfb";
 
 // Variable to control history display: true = display / false = hides
-let showHistory = true; 
+let showHistory = false; 
 
 window.onload = function () {
     var page = new Page;
