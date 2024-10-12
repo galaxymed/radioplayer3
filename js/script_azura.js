@@ -1,7 +1,7 @@
 const RADIO_NAME = 'Invasiva Radio';
 
 // Change Azuracast Stream URL Here, .
-const URL_STREAMING = 'https://fm.restream593.online:8020/radio';
+const URL_STREAMING = 'https://fm.restream593.online:8020/radio.mp3';
 
 //API URL Azuracast Now Playing
 const API_URL = 'https://fm.restream593.online/api/nowplaying/invasiva_radio';
