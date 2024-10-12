@@ -1,10 +1,10 @@
 const RADIO_NAME = 'Your Radio';
 
 // Change Azuracast Stream URL Here, .
-const URL_STREAMING = 'https://azuracp.web-radios.eu/listen/treloparea/stream';
+const URL_STREAMING = 'https://fm.restream593.online:8020/radio';
 
 //API URL Azuracast Now Playing
-const API_URL = 'https://azuracp.web-radios.eu/api/nowplaying/2';
+const API_URL = 'https://fm.restream593.online/api/nowplaying/invasiva_radio';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
